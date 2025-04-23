@@ -3,8 +3,6 @@ Like Snapchat for your brain.
 
 Not all notes are created equally. DisCard lets you choose how long you want your notes to last. Your password? Keep it forever. The coordinates to your Minecraft base? Mabye one month or a week. We also make it easy to keep track of how long until your notes clear out, and every note will have its own expiration date.
 
-Version 1.0.0 is right now out. Graphic improvments coming soon if the intrest is big enough, additionaly Windows support would be added.
-
 Because of macOS security settings, you may get a warning that your Mac can not check DisCard for malicious software. This is standard for apps that are not signed by Apple, and to get around this you have to navigate to your System Settings and let the app open anyways.
 
 If you feel uncertain, feel free to scan the app yourself at:
