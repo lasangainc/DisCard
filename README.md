@@ -14,9 +14,10 @@ If you feel uncertain, feel free to scan the app yourself at:
 ![DisCard ICON github](https://github.com/user-attachments/assets/abcc68b1-f210-47e5-b1ff-67f1cd05413b)
 
 # Photos
-![Screenshot 2025-04-22 at 18 08 00](https://github.com/user-attachments/assets/a99c7ade-09a4-4667-89c7-42fb6d4295ea)
-![Screenshot 2025-04-22 at 18 09 21](https://github.com/user-attachments/assets/2ce6cfae-6456-4ba5-8d88-5195e4f4b234)
+![Screenshot 2025-04-23 at 21 13 02](https://github.com/user-attachments/assets/5be934ab-2781-44cd-9172-dc65314fc5f7)
+![Screenshot 2025-04-23 at 21 10 42](https://github.com/user-attachments/assets/257b3f44-353e-459c-985f-ae463519f11c)
+
 
 
 # Download
-[![Get DMG](https://img.shields.io/badge/Get%20DMG-for%20mac-blue?style=for-the-badge)](https://github.com/lasangainc/DisCard/releases/tag/1.0.0)
+[![Get DMG](https://img.shields.io/badge/Get%20DMG-for%20mac-blue?style=for-the-badge)](https://github.com/lasangainc/DisCard/releases/)
